@@ -1,0 +1,251 @@
+[{
+  "_id": {
+    "$oid": "63535484ca93590004df9332"
+  },
+  "status": "Not processed",
+  "products": [
+    {
+      "_id": {
+        "$oid": "63515936d107221e5c0598b3"
+      },
+      "name": "Head First Python: A Brain-Friendly Guide",
+      "price": 51,
+      "createdAt": {
+        "$date": {
+          "$numberLong": "1666275638592"
+        }
+      },
+      "updatedAt": {
+        "$date": {
+          "$numberLong": "1666275638592"
+        }
+      },
+      "__v": 0,
+      "count": 1
+    }
+  ],
+  "transaction_id": "4sdtpnc2",
+  "amount": 51,
+  "user": {
+    "$oid": "632ac86e0ba09208bcb0c7a5"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666405508047"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675707565087"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6353622eca93590004df95ed"
+  },
+  "status": "Shipped",
+  "products": [
+    {
+      "_id": {
+        "$oid": "635157f1d107221e5c05984f"
+      },
+      "name": "JavaScript and jQuery: Interactive Front-End Web Development",
+      "price": 24,
+      "createdAt": {
+        "$date": {
+          "$numberLong": "1666275313074"
+        }
+      },
+      "updatedAt": {
+        "$date": {
+          "$numberLong": "1666275313074"
+        }
+      },
+      "__v": 0,
+      "count": 1
+    },
+    {
+      "_id": {
+        "$oid": "6335d26cb012933450348b02"
+      },
+      "name": "PHP: The Complete Reference",
+      "price": 65,
+      "createdAt": {
+        "$date": {
+          "$numberLong": "1664471660092"
+        }
+      },
+      "updatedAt": {
+        "$date": {
+          "$numberLong": "1664471660092"
+        }
+      },
+      "__v": 0,
+      "count": 1
+    }
+  ],
+  "transaction_id": "czcnj0y1",
+  "amount": 89,
+  "address": "dia chi",
+  "user": {
+    "$oid": "635361a1ca93590004df95a7"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666409006246"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666409182539"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6354ab138c82ad0004781ed3"
+  },
+  "status": "Cancelled",
+  "products": [
+    {
+      "_id": {
+        "$oid": "63515867d107221e5c059867"
+      },
+      "name": "Eloquent JavaScript, 3rd Edition: A Modern Introduction to Programming",
+      "price": 19,
+      "createdAt": {
+        "$date": {
+          "$numberLong": "1666275431485"
+        }
+      },
+      "updatedAt": {
+        "$date": {
+          "$numberLong": "1666275431485"
+        }
+      },
+      "__v": 0,
+      "count": 1
+    }
+  ],
+  "transaction_id": "35scy7fw",
+  "amount": 19,
+  "address": "Thành phố Thủ Đức",
+  "user": {
+    "$oid": "632ad7fff6771d0d98ca9b93"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666493203164"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666514090908"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a875d64ef21536783fed0b"
+  },
+  "status": "Not processed",
+  "products": [
+    {
+      "_id": {
+        "$oid": "6335d30db012933450348b08"
+      },
+      "name": "JavaScript for Absolute Beginners 1st ed. Edition",
+      "price": 40,
+      "createdAt": {
+        "$date": {
+          "$numberLong": "1664471821038"
+        }
+      },
+      "updatedAt": {
+        "$date": {
+          "$numberLong": "1664471821038"
+        }
+      },
+      "__v": 0,
+      "count": 1
+    },
+    {
+      "_id": {
+        "$oid": "6335d414b012933450348b11"
+      },
+      "name": "Python Machine Learning: The Ultimate Intermediate Guide to Learn Python Machine Learning Step by Step Using Scikit-learn and Tensorflow",
+      "price": 20,
+      "createdAt": {
+        "$date": {
+          "$numberLong": "1664472084166"
+        }
+      },
+      "updatedAt": {
+        "$date": {
+          "$numberLong": "1664472084166"
+        }
+      },
+      "__v": 0,
+      "count": 2
+    }
+  ],
+  "transaction_id": "40xm6fc8",
+  "amount": 80,
+  "user": {
+    "$oid": "632ac86e0ba09208bcb0c7a5"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671984598690"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671984598690"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e145186c44e10c0c2e098c"
+  },
+  "status": "Not processed",
+  "products": [
+    {
+      "_id": {
+        "$oid": "635157f1d107221e5c05984f"
+      },
+      "name": "JavaScript and jQuery: Interactive Front-End Web Development",
+      "price": 24,
+      "createdAt": {
+        "$date": {
+          "$numberLong": "1666275313074"
+        }
+      },
+      "updatedAt": {
+        "$date": {
+          "$numberLong": "1666275313074"
+        }
+      },
+      "__v": 0,
+      "count": 5
+    }
+  ],
+  "transaction_id": "jz5pd7m9",
+  "amount": 120,
+  "user": {
+    "$oid": "632ac86e0ba09208bcb0c7a5"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675707672011"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675707672011"
+    }
+  },
+  "__v": 0
+}]
